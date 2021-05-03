@@ -1,5 +1,5 @@
 #### Image_Classification_CNN
-##### car and truck data set from kaggle has been used to evaluate the model
-##### Model can be used for other classification problems with slight changes in the classification classes
+##### The CNN model is trained on dataset containing images of cars and buses
+##### Model can be used for other problems with small changes in class encodings
 ##### Add classes = ['car', 'truck', 'other'] and create one_hot encoding for them. 
-##### Architecture and hyperparameters can be tuned as per problem metrics 
+##### Architecture and hyperparameters can be tuned as per evaluation metrics 
