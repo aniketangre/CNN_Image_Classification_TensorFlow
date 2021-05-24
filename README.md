@@ -1,2 +1,2 @@
 #### Image_Classification_CNN
-##### Please check Description.pdf
+#####  Please check CNN_project_description.pdf for details
